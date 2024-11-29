@@ -1,0 +1,17 @@
+/*
+Theme Name: Nisarg Child
+Theme URI: http://yourwebsite.com/nisarg-child
+Description: Child theme for the Nisarg theme
+Author: Your Name
+Author URI: http://yourwebsite.com
+Template: nisarg
+Version: 1.0
+*/
+
+/* Importa il foglio di stile del tema parent */
+@import url("../nisarg/style.css");
+
+/* Qui puoi aggiungere i tuoi stili personalizzati */
+body{
+    background-color: white!important;
+}
